@@ -1,1 +1,1 @@
-# hello-world
+Hey! I am @John-Kartsan I am currently attending university studying applied informatics. In the upcoming future, I would love to study and learn more about robotics and data science and get to solve real world problems, this is why I am willing to learn new technologies. 
